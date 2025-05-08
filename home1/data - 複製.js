@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-",
-      "name": "國立台灣圖書館",
+      "name": "圖書館正門",
       "levels": [
         {
           "tileSize": 256,
